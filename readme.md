@@ -23,7 +23,7 @@ print(a)
 
 Escolha a opção que responde corretamente:
 
-<p style="border:1px solid red;border-radius:10px;padding:5px">a) Imprime os números pares de 1 a 10.</p>
+<p style="border:1px solid red;border-radius:10px;padding:5px"><b>a) Imprime os números pares de 1 a 10.</b></p>
 
 b) Imprime os números ímpares de 1 a 10.
 
@@ -39,7 +39,7 @@ ______
 
 No lugar onde está escrito “// linha” qual das opções abaixo deve estar para funcionar corretamente o código?
 
-<p style="border:1px solid red;border-radius:10px;padding:5px">A) let carro = new Carro("Toyota");</p>
+<p style="border:1px solid red;border-radius:10px;padding:5px"><b>A) let carro = new Carro("Toyota");</b></p>
 
 B) let ligar = new ligar("Toyota");
 
@@ -55,7 +55,7 @@ ______
 
 Escolha a opção que responde corretamente:
 
-<p style="border:1px solid red;border-radius:10px;padding:5px">A) 18</p>
+<p style="border:1px solid red;border-radius:10px;padding:5px"><b>A) 18</b>b></p>
 
 B) 16
 
@@ -67,7 +67,7 @@ ______
 
 **4)** Como você criaria um método `acelerar()` em uma classe `Carro`, que recebe um parâmetro `velocidade` e o adiciona a um atributo `velocidadeAtual`?
 
-<p style="border:1px solid red;border-radius:10px;padding:5px">A)</p>
+<p style="border:1px solid red;border-radius:10px;padding:5px"><b>A)</b></p>
 
 ![Uma imagem](assets/ex04_1.PNG)
 
@@ -81,7 +81,7 @@ ______
 
 **5)** Qual a forma correta de definir uma classe Carro em JavaScript, com um método ligar() e um atributo marca?
 
-<p style="border:1px solid red;border-radius:10px;padding:5px">A)</p>
+<p style="border:1px solid red;border-radius:10px;padding:5px"><b>A)</b></p>
 
 ![Uma imagem](assets/ex05_1.PNG)
 
@@ -99,7 +99,7 @@ ______
 
 Qual será a saída do código acima?
 
-<p style="border:1px solid red;border-radius:10px;padding:5px">A) "Olá, meu nome é João. Olá, meu nome é Maria."</p>
+<p style="border:1px solid red;border-radius:10px;padding:5px"><b>A) "Olá, meu nome é João. Olá, meu nome é Maria."</b></p>
 
 B) "Olá, meu nome é ."
 
